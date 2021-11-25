@@ -1,0 +1,19 @@
+test
+coverage
+
+#build tools
+webpack.config.js
+
+#linters
+.jscsrc
+.jshintrc
+.eslintrc*
+
+#editor settings
+.idea
+.editorconfig
+
+#others
+src
+.DS_Store
+node_modules
